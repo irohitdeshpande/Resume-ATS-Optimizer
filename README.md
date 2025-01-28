@@ -78,9 +78,6 @@ Here is an example of what the resume analysis output might look like:
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to follow the project's coding style and include tests for any new features or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - **Streamlit** for providing an easy-to-use framework for creating web apps.
 - **Google Gemini API** for enabling powerful AI-based resume analysis.
