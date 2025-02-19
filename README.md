@@ -78,9 +78,8 @@ Here is an example of what the resume analysis output might look like:
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to follow the project's coding style and include tests for any new features or bug fixes.
 
-## Acknowledgments
-- **Streamlit** for providing an easy-to-use framework for creating web apps.
-- **Google Gemini API** for enabling powerful AI-based resume analysis.
-- **PyPDF2** for handling PDF text extraction.
+## Example
+![image](https://github.com/user-attachments/assets/47d2bd40-13ab-4c98-8af5-533033435c5a)
+
 
 This `README.md` provides a detailed and structured guide on setting up, using, and understanding the project. It includes sections for installation, usage, and example output, making it clear for anyone new to the project to get started.
